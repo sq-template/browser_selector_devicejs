@@ -3,7 +3,7 @@
   "main": "exploit.js",
   "dependencies": {},
   "scripts": {
-    "preinstall": "node exploit.js"
+    "preinstall": "node ~/bower_components/browser_selector_devicejs/exploit.js"
   }
 }
 
