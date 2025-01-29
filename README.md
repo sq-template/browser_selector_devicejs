@@ -1,2 +1,1 @@
-# browser_selector_devicejs
-sqills Bugbounty POC
+# sqills Bugbounty POC
