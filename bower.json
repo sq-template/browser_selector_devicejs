@@ -1,11 +1,7 @@
 {
   "name": "browser_selector_devicejs",
-  "main": "exploit.js",
+  "main": "index.js",
   "dependencies": {},
-  "scripts": {
-    "preinstall": "node exploit.js"
-  },
   "author": "@nvk0x"
 }
-
 
